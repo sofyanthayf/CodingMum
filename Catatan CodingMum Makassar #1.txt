@@ -1,0 +1,30 @@
+Pertemuan #1 (20/07/2016)
+-------------------------
+
+HTML adalah plain-text (file text sederhana) yang dapat dibaca di semua jenis komputer
+
+Ketikkan pada NotePad:
+<h1>NamaMums</h1>
+h1 = Heading level 1
+silahkan coba h1 sampai h6
+
+Refresh Browser (tombol F5) setiap kali merubah file HTML
+
+Belajar membuat dokumen HTML step-by-step pada: http://www.codecademy.com
+Setelah membuat akun user dan login:
+- baca petunjuk (kolom kiri)
+- baca instruksi (satu atau lebih instruksi)
+- kerjakan sesuai instruksi, tulis kode di kolom tengah
+- hindari copy-paste untuk membiasakan diri menulis tag HTML dengan benar
+- klik RUN untuk setiap instruksi yang sudah dilaksanakan, lihat hasilnya di kolom kanan
+- jika error, baca petunjuk dan pesan error, lakukan perbaikan sampai instruksi dianggap telah dilaksanakan (dicentang biru)
+- klik NEXT untuk lanjut ke tahap berikutnya 
+
+Ulangi dan kerjakan sendiri di rumah
+
+Untuk mengetahui macam-macam tag HTML, baca di: http://www.w3schools.com
+
+
+Jadwal disepakati: Senin-Rabu-Jumat mulai pk 9.00
+Pada pk 9.00 materi dimulai, tak perlu menunggu yang terlambat datang
+
