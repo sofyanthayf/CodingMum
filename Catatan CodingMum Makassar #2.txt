@@ -38,5 +38,10 @@ client ----------- front-end ------- back-end
                    client side       server side
 
 
+kembali ke GitHub
+
+tambah kolaborator:  Setting->Collaborators
+
+
 
 
