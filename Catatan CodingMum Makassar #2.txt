@@ -1,3 +1,42 @@
 Pertemuan #2 (22/07/2016)
 -------------------------
 
+WiFi Access Point: Bukan Untuk Umum 
+password: CodingMum
+
+Hari ini dua materi
+1. Git/GitHub
+2. Konsep Web
+
+Dokumentasi tentang Git: https://git-scm.com/doc
+Bahasa Indonesia: https://git-scm.com/book/id/v1 (sayangnya baru sampai chapter 3 dari 10 chapter)
+versi PDF: https://progit2.s3.amazonaws.com/en/2016-03-22-f3531/progit-en.1084.pdf (Bahasa Inggris)
+
+tentang GitHub ada di Chapter 6
+
+
+Buat repository dengan nama: CodingMum_namamum
+
+install GitHub Desktop..
+
+sambil nunggu..
+
+Apa itu World Wide Web?
+
+mum Dian: alamat dunia maya
+mum Bunga: dunia maya
+mum Fauziah: semacam layanan untuk mendapat informasi
+mum Fatmawati: memudahkan informasi segala macam produk
+mum Asri: peta untuk menunjukkan arah kemana akan di tuju
+mum Sarah: halaman situs
+mum Inar: ruang informasi di dunia maya
+mum Wiwik: alamat untuk menyimpan data yang bisa diakses untuk mendapatkan informasi
+mum Qalbi: halaman yang diakses melaui internet, bisa untuk pribadi, bisa untuk umum
+
+
+client ----------- front-end ------- back-end
+                   client side       server side
+
+
+
+
