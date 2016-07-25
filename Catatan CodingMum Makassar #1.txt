@@ -35,3 +35,6 @@ saya sudah ngedit ulang yang di codecadamy di notepad tapi tampilan div nya g be
 
 [SofyanThayf]
 Mum Qalbi belum bikin file css-nya. File css terpisah dengan file HTML
+
+[qalbi]
+terima kasih pak
