@@ -32,3 +32,6 @@ Pada pk 9.00 materi dimulai, tak perlu menunggu yang terlambat datang
 
 [qalbi]
 saya sudah ngedit ulang yang di codecadamy di notepad tapi tampilan div nya g berlaku. itu kenapa pak?
+
+[SofyanThayf]
+Mum Qalbi belum bikin file css-nya. File css terpisah dengan file HTML
