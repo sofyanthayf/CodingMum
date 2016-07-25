@@ -21,3 +21,10 @@ alt=".." pada <img> = teks alternatif sebelum image ditampilkan atau jika image 
 <!-- catatan/komentar/remark di dalam kode, tidak akan ditampilkan di halaman web -->
 
 <BR> adalah line BReak (memisahkan baris dalam satu paragraf)
+
+
+*folder latihan1 dibuat di dalam folder GitHub/CodingMum_namaanda
+
+<UL> Un-ordered List - daftar dengan bulleted list, tanpa nomor urut
+<OL> Ordered List - daftar dengan nomor urut
+<LI> List Item (isi list)
