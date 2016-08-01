@@ -1,0 +1,64 @@
+Pertemuan #6 (01/08/2016)
+-------------------------
+
+WiFi Access Point: Bukan Untuk Umum 
+password: CodingMum
+
+Hari ini sampai 5 pertemuan kedepan
+LESSON 03 : INTRO TO HTML
+LESSON 04 : INTRO TO CSS  
+LESSON 05 : HTML, beyond the basic
+LESSON 06 : CSS, Layout, and FORMATTING <------------  hari ini ---
+LESSON 07 : INTRO to RESPONSIVE DESIGN  <-----------/ 
+
+
+http://www.entheosweb.com/website_design/responsive_web_design.asp
+
+strategi web yang responsive:
+1. Fluid Grid: layout fleksibel, menyesuaikan ukuran dan orientasi layar
+2. Flexible Images: penyesuaian ukuran image secara proporsional berdasarkan ukuran container
+3. Media Queries (@media): mendeteksi ukuran layar
+
+
+
+Gambar/image bisa dimuat melalui CSS, contoh:
+
+#header_top{
+  width: 100%;
+  background-image:url(images/top_blue_bg.jpg);	 /* <--- pemanggilan file gambar/image  */
+  background-repeat:repeat-x;
+  height:12px;
+}
+
+/* perhatikan dan sesuaikan penulisan nama direktori  */
+
+
+tanda: ../  adalah merujuk pada parent direktori/folder (satu level diatas folder aktif) 
+
+
+beberapa selector dengan definisi style yang sama:
+
+.text .column1 , .text .column2 {   /* perhatikan tanda koma  */
+    ....;
+}
+
+identik dengan 
+
+.text .column1 {
+    ....;
+} 
+
+dan 
+
+.text .column2 {
+    ....;
+} 
+
+karena isinya sama, maka bisa disatukan dengan tanda koma sebagai pemisah
+
+
+z-index: ..  --> mengatur tumpukan kontainer (<div>) yang saling overlap/menumpuk
+		 nilai lebih besar = paling depan
+
+
+petunjuk lengkap CSS ada di http://www.w3schools.com  bagian CSS
