@@ -13,11 +13,22 @@ LESSON 07 : INTRO to RESPONSIVE DESIGN
 
 Cek dan install Notepad++ (Npp)
 editor lain:
-Bracket
+- Bracket
+- SublimeText
 
 <img> untuk loading image/gambar
 alt=".." pada <img> = teks alternatif sebelum image ditampilkan atau jika image tidak dapat ditampilkan
 
 <!-- catatan/komentar/remark di dalam kode, tidak akan ditampilkan di halaman web -->
 
+<P>  .. paragraf .. </P>
 <BR> adalah line BReak (memisahkan baris dalam satu paragraf)
+
+
+*folder latihan1 dibuat di dalam folder GitHub/CodingMum_namaanda
+
+<UL> Un-ordered List - daftar dengan bulleted list, tanpa nomor urut
+<OL> Ordered List - daftar dengan nomor urut
+<LI> List Item (isi list)
+
+Tag-tag HTML bersifat case-insensitif (tidak membedakan huruf besar atau huruf kecil)
