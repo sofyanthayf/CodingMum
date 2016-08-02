@@ -1,0 +1,47 @@
+Pertemuan #4 (27/07/2016)
+-------------------------
+
+WiFi Access Point: Bukan Untuk Umum 
+password: CodingMum
+
+Hari ini sampai 5 pertemuan kedepan
+LESSON 03 : INTRO TO HTML
+LESSON 04 : INTRO TO CSS  <------------  hari ini ---
+LESSON 05 : HTML, beyond the basic
+LESSON 06 : CSS, Layout, and FORMATTING
+LESSON 07 : INTRO to RESPONSIVE DESIGN
+
+
+CSS = Cascade Style Sheet
+Style =  presentasi dari dokumen
+
+buat folder bernama: css
+contoh nama file  style.css
+
+
+/* catatan, komentar, tidak akan memberi efek */
+
+color:
+- bisa pakai nama warna (bahasa Inggris), hanya ada 64 warna yang didefinisikan namanya
+- bisa pakai rgb( R, G, B) dimana R, G, B adalah skala masing-masing warna (0-255)
+- bisa pakai heksadesimal #RRGGBB dimana RR, GG, BB adalah skala masing-masing warna dalam heksadesimal (00-FF)
+
+format style dalam stylesheet: selector { properties: value; }
+(lihat buku modul)
+
+.namaselector --> diawali dengan titik, dalam HTML dipanggil sebagai class (class="...") 
+#namaselector --> diawali dengan hash (#), dalam HTML dipanggil sebagai id (id="...")
+namaselector  --> tanpa tanda = berlaku untuk setiap tag yang namanya sama dengan namaselector 
+
+class bisa dipanggil berulangkali pada sejumlah tag HTML dalam satu file HTML yang sama
+id hanya milik satu tag dalam sebuah file HTML
+
+mendefinisikan style langsung untuk sebuah tag tidak dianjurkan untuk tag yang sering/banyak kali digunakan dan kemungkinan membutuhkan style berbeda, gunakan class.
+<body> bisa langsung didefinisikan style-nya karena hanya ada satu dalam satu file HTML
+
+
+silahkan eksplorasi, properties apa saja yang ada dan bisa digunakan
+(referensi: www.w3schools.com)
+
+mulai memikirkan studi kasus untuk project yang akan di-presentasikan
+
