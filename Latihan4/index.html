@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Belajar JavaScript</title>
+</head>
+<body>
+
+<h1 id="judul">Belajar JavaScript</h1>
+
+<div id="output"></div>
+
+<div id="data1"></div>
+<div id="data2"></div>
+<div id="hasil"></div>
+
+
+
+<script type="text/javascript">
+	
+	document.getElementById('output').innerHTML = "Hello World"
+
+	var a = 10;
+	var b = 2500;
+
+	document.getElementById('data1').innerHTML = "jumlah " + a;
+	document.getElementById('data2').innerHTML = "harga satuan " + b;
+	document.getElementById('hasil').innerHTML = "Jumlah Harga " + hitungJumlahHarga( a );
+
+
+	function hitungJumlahHarga( jumlah ) {
+		var hasil;
+		var total;
+		total = jumlah * 2500;
+		hasil = total - (total * 0.1);
+		
+		return hasil;
+	}
+
+
+</script>
+
+</body>
+</html>

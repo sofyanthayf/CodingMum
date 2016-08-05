@@ -1,0 +1,30 @@
+Pertemuan #7 (03/08/2016)
+-------------------------
+
+Hari ini sampai 5 pertemuan kedepan
+LESSON 03 : INTRO TO HTML
+LESSON 04 : INTRO TO CSS  
+LESSON 05 : HTML, beyond the basic
+LESSON 06 : CSS, Layout, and FORMATTING 
+LESSON 07 : INTRO to RESPONSIVE DESIGN  <----------- hari ini --- + Bootstrap
+
+download Bootstrap http://getbootstrap.com/getting-started/
+
+Bootstrap online:
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+
+petunjuk tentang Bootstrap ada di http://www.w3schools.com/bootstrap/
+
+
+
+
+
+
+Persiapan Pemrograman:
+silahkan main game di http://code.org;
+
+
+

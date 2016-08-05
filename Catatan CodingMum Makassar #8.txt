@@ -1,0 +1,11 @@
+Pertemuan #8 (05/08/2016)
+-------------------------
+
+Hari ini sampai 5 pertemuan kedepan
+LESSON 08 : DASAR PEMROGRAMAN JAVASCRIPT <----------- hari ini ---
+LESSON 09 : STRUKTUR PEMROGRAMAN
+LESSON 10 : Document Object Model (DOM)
+
+
+
+

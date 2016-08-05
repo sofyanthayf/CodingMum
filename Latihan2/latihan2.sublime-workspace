@@ -1,0 +1,1029 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"li",
+				"lib_last_ip"
+			],
+			[
+				"ad",
+				"admin"
+			],
+			[
+				"_",
+				"_SESSION"
+			],
+			[
+				"label",
+				"labeltipe"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"nama",
+				"namabelakang"
+			],
+			[
+				"str",
+				"strauth"
+			],
+			[
+				"bu",
+				"bukuauthor"
+			],
+			[
+				"id",
+				"id_buku"
+			],
+			[
+				"tip",
+				"tip"
+			],
+			[
+				"act",
+				"active"
+			],
+			[
+				"ti",
+				"tipe"
+			],
+			[
+				"Skripsi",
+				"Skripsi"
+			],
+			[
+				"has",
+				"hasilskripsi"
+			],
+			[
+				"ha",
+				"hasilskripsi"
+			],
+			[
+				"hasil",
+				"hasilbuku"
+			],
+			[
+				"clo",
+				"close"
+			],
+			[
+				"login",
+				"login_time"
+			],
+			[
+				"array_m",
+				"array_merge"
+			],
+			[
+				"nama_",
+				"nama_belakang"
+			],
+			[
+				"kri",
+				"krit_tahun"
+			],
+			[
+				"krti",
+				"krit_author"
+			],
+			[
+				"key",
+				"keyjudul"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"year",
+				"year-select"
+			],
+			[
+				"incl",
+				"include"
+			],
+			[
+				"th",
+				"th	Tag"
+			],
+			[
+				"b",
+				"buku"
+			],
+			[
+				"naam",
+				"nama_depan"
+			],
+			[
+				"add",
+				"addslashes"
+			],
+			[
+				"publ",
+				"id_publisher"
+			],
+			[
+				"publisher",
+				"publisher"
+			],
+			[
+				"strp",
+				"strpos"
+			],
+			[
+				"str_",
+				"str_replace"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"strr",
+				"str_replace"
+			],
+			[
+				"fun",
+				"func_num_args"
+			],
+			[
+				"getar",
+				"func_get_args"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"ses",
+				"session_start"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"shad",
+				"text-shadow"
+			],
+			[
+				"lef",
+				"padding-left"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"el",
+				"elr"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"do",
+				"dok"
+			],
+			[
+				"strto",
+				"strtotime"
+			],
+			[
+				"exe",
+				"execQuery"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"cell",
+				"cellspacing	Attr"
+			],
+			[
+				"bor",
+				"border-width"
+			],
+			[
+				"bo",
+				"border-style"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"Faceb",
+				"Facebook"
+			],
+			[
+				"Fac",
+				"Facebook"
+			],
+			[
+				"Fa",
+				"Facebook"
+			],
+			[
+				"Facebook",
+				"FacebookRequest"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"ur",
+				"urlvars"
+			],
+			[
+				"pars",
+				"parse_url"
+			],
+			[
+				"ko",
+				"kode_kompetensi_mhs"
+			],
+			[
+				"kode",
+				"kodemk"
+			],
+			[
+				"jumla",
+				"jumlahpeserta"
+			],
+			[
+				"siska",
+				"siska_kelas"
+			],
+			[
+				"updat",
+				"updateKompetensi"
+			],
+			[
+				"kelas",
+				"kelasmk"
+			],
+			[
+				"kel",
+				"kelasMK"
+			],
+			[
+				"ma",
+				"mahasiswa"
+			],
+			[
+				"komp",
+				"kompmhs"
+			],
+			[
+				"kom",
+				"kompetensi_mhs"
+			],
+			[
+				"upd",
+				"updateKompetensi"
+			],
+			[
+				"lis",
+				"listSemester"
+			],
+			[
+				"qry",
+				"qry_komp"
+			],
+			[
+				"em",
+				"email"
+			],
+			[
+				"nim",
+				"nim"
+			],
+			[
+				"n",
+				"new"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"seme",
+				"semester"
+			],
+			[
+				"regisras",
+				"tanggal_registrasi_mhs"
+			],
+			[
+				"sql",
+				"sql_pa"
+			],
+			[
+				"tam",
+				"tampil_jadwal_dosen"
+			],
+			[
+				"dosen",
+				"dosenmk"
+			],
+			[
+				"nw",
+				"newpass"
+			],
+			[
+				"krs",
+				"krsmhs"
+			],
+			[
+				"dis",
+				"distance"
+			],
+			[
+				"da",
+				"database_fetch_array"
+			],
+			[
+				"wher",
+				"where_slot"
+			],
+			[
+				"data",
+				"data_mhs"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"jad",
+				"jadwal"
+			],
+			[
+				"las",
+				"lastpage"
+			],
+			[
+				"qr",
+				"qrstring"
+			],
+			[
+				"naa",
+				"nama"
+			],
+			[
+				"kls",
+				"klsekiv"
+			],
+			[
+				"tah",
+				"tahunkurikulum"
+			],
+			[
+				"pr",
+				"programstudi"
+			],
+			[
+				"pro",
+				"prodi"
+			],
+			[
+				"jum",
+				"jumlahpeserta"
+			],
+			[
+				"kode_k",
+				"kode_kompetensi_mhs"
+			],
+			[
+				"prod",
+				"Prodi"
+			],
+			[
+				"R",
+				"RUANG"
+			],
+			[
+				"sis",
+				"siska_timeslot"
+			],
+			[
+				"slot",
+				"slot_waktu"
+			],
+			[
+				"kdoe",
+				"kode_matakuliah"
+			],
+			[
+				"ke",
+				"kelasmk"
+			],
+			[
+				"coll",
+				"colls"
+			],
+			[
+				"Kelas",
+				"KelasMataKuliah"
+			],
+			[
+				"co",
+				"collision"
+			],
+			[
+				"kod",
+				"kodekelas"
+			],
+			[
+				"slo",
+				"slot_waktu"
+			],
+			[
+				"pesert",
+				"peserta"
+			],
+			[
+				"phe",
+				"pheadtitle"
+			],
+			[
+				"chec",
+				"checkbox"
+			],
+			[
+				"m",
+				"mahasiswa"
+			],
+			[
+				"datab",
+				"database_prepare"
+			],
+			[
+				"juml",
+				"jumlah"
+			],
+			[
+				"database",
+				"database_prepare"
+			],
+			[
+				"glo",
+				"global"
+			],
+			[
+				"to",
+				"tomerge"
+			],
+			[
+				"kl",
+				"klsekiv"
+			],
+			[
+				"po",
+				"post"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3661,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 3014,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/GitHub/CodingMum/Latihan2",
+		"/D/GitHub/CodingMum/Latihan2/css"
+	],
+	"file_history":
+	[
+		"/D/Coding Mum/Contoh/contoh1/css/mystyle.css",
+		"/D/Coding Mum/Contoh/contoh1/index.html",
+		"/D/Coding Mum/Contoh/MyProject/carousel.css",
+		"/D/Coding Mum/Contoh/MyProject/index.html",
+		"/D/Coding Mum/Contoh/MyProject/css/bootstrap.css",
+		"/D/Coding Mum/Contoh/MyProject/css/bootstrap.min.css",
+		"/D/Coding Mum/Contoh/MyProject/css/bootstrap.css.map",
+		"/D/Coding Mum/Contoh/Yellow And Blue Dreamweaver Responsive Website Template By Entheos/index.html",
+		"/D/GitHub/CodingMum/Latihan2/css/style.css",
+		"/D/GitHub/CodingMum/MyProject/css/bootstrap.css",
+		"/D/Coding Mum/Contoh/Yellow And Blue Dreamweaver Responsive Website Template By Entheos/style.css",
+		"/D/GitHub/CodingMum/latihan1/css/style.css",
+		"/D/xampp/htdocs/project/library/class.jurnal.php",
+		"/D/xampp/htdocs/project/library/class.paper.php",
+		"/D/xampp/htdocs/project/library/inc.detailsearching.php",
+		"/D/xampp/htdocs/project/library/inc.detailsearch.php",
+		"/D/xampp/htdocs/project/library/inc.function.php",
+		"/C/Users/Sofyan Thayf/Google Drive/STMIK KHARISMA/SIMAK/backup & transfer/20160726_siskakuliah.sql",
+		"/D/xampp/htdocs/project/library/library.sql",
+		"/D/xampp/htdocs/project/library/inc.search.php",
+		"/D/xampp/htdocs/project/library/inc.searching.php",
+		"/D/xampp/htdocs/project/library/class.MySQLDB.php",
+		"/D/xampp/htdocs/project/library/class.buku.php",
+		"/D/xampp/htdocs/project/library/index.php",
+		"/D/xampp/htdocs/project/library/katalog.php",
+		"/D/xampp/htdocs/project/library/mystyle.css",
+		"/D/OneDrive/STMIK KHARISMA/Perpustakaan/20160612 library ALL.sql",
+		"/D/xampp/htdocs/project/library/tabtest.html",
+		"/D/xampp/htdocs/project/library/custom.js",
+		"/D/xampp/htdocs/project/library/webrtc-ips.js",
+		"/D/xampp/php/php.ini",
+		"/D/xampp/apache/conf/httpd.conf",
+		"/D/xampp/htdocs/project/library/inc.dbconf.php",
+		"/C/Users/Sofyan Thayf/Google Drive/STMIK KHARISMA/SIMAK/backup & transfer/library.sql",
+		"/D/xampp/htdocs/project/library/class.hasil.php",
+		"/D/xampp/htdocs/project/library/signout.php",
+		"/D/xampp/htdocs/project/library/inc.search_01.php",
+		"/D/xampp/htdocs/project/library/templates/stylish-portfolio/index.html",
+		"/D/xampp/htdocs/project/jaminanmutu/mystyle.css",
+		"/D/xampp/htdocs/project/jaminanmutu/inc.dokumen.php",
+		"/D/xampp/htdocs/project/jaminanmutu/class.dokumen.php",
+		"/D/xampp/htdocs/karina/getmhs.php",
+		"/D/xampp/htdocs/karina/contohhttp.java",
+		"/D/xampp/htdocs/project/jaminanmutu/inc.peraturan.php",
+		"/D/xampp/htdocs/project/jaminanmutu/inc.jobdesc.php",
+		"/D/xampp/htdocs/project/jaminanmutu/inc.standar.php",
+		"/D/xampp/htdocs/project/jaminanmutu/index.php",
+		"/D/xampp/htdocs/karina/inc.dbconf.php",
+		"/D/xampp/htdocs/project/jaminanmutu/inc.dbconf.php",
+		"/D/xampp/htdocs/karina/dbresto(1).sql",
+		"/D/xampp/htdocs/karina/class.MySQLDB.php",
+		"/D/xampp/htdocs/project/library/contoh/perpusweb.sql",
+		"/D/xampp/htdocs/project/library/contoh/conn.php",
+		"/D/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/D/xampp/htdocs/project/jaminanmutu/inc.manual.php",
+		"/D/xampp/htdocs/project/jaminanmutu/inc.formulir.php",
+		"/D/xampp/htdocs/project/jaminanmutu/class.MySQLDB.php",
+		"/D/xampp/htdocs/project/jaminanmutu/inc.dokumen.BAK.php",
+		"/D/xampp_BACKUP/htdocs/project/pweb141/pweb-style.css",
+		"/D/xampp/htdocs/project/jaminanmutu/javascript/jquery-1.12.3.min.map",
+		"/D/xampp/htdocs/project/fotografikharisma/test2.html",
+		"/D/xampp/htdocs/project/fotografikharisma/test.html",
+		"/D/xampp/htdocs/project/fotografikharisma/test3.php",
+		"/D/xampp/htdocs/project/fotografikharisma/fbconnect.php",
+		"/D/xampp/htdocs/project/fotografikharisma/fbconnect2.php",
+		"/D/xampp/htdocs/project/fotografikharisma/style.css",
+		"/D/xampp/htdocs/project/fotografikharisma/fbstyle.css",
+		"/D/xampp/htdocs/project/fotografikharisma/fblayout_bak.html",
+		"/D/xampp/htdocs/project/fotografikharisma/fetch_url.php",
+		"/D/xampp/htdocs/project/fotografikharisma/facebookstyle.css",
+		"/D/kuliah/20152/Fotografi/FBGroup/u3974787_kfotografi.sql",
+		"/E/SOFTWARE/Adobe Photoshop Lightroom 6.1.1/adobe.snr.patch-painter v.1.4/painter.nfo",
+		"/D/xampp/htdocs/project/fotografikharisma/fblayout.html",
+		"/D/xampp/htdocs/project/fotografikharisma/facebook-api-tutorial/example.php",
+		"/D/xampp/htdocs/project/fotografikharisma/index.php",
+		"/D/xampp/htdocs/project/siskanew/includes/modules/perkuliahan/pdf_absensi_mhs.php",
+		"/D/xampp/htdocs/project/fotografikharisma/pesanpulsa.php",
+		"/D/xampp/htdocs/project/fotografikharisma/extract_style.css.",
+		"/D/xampp/htdocs/project/siskanew/index.php",
+		"/D/xampp/htdocs/project/siskanew/includes/page_top.php",
+		"/D/xampp/htdocs/project/siskanew/functions/siska.function.php",
+		"/D/xampp/phpMyAdmin/config.inc.php",
+		"/D/xampp/htdocs/project/siskanew/aksi_otentikasi.php",
+		"/D/xampp/htdocs/project/siskanew/classes/database.class.php",
+		"/D/xampp_PREV/apache/conf/extra/httpd-vhosts.conf",
+		"/D/xampp_PREV/apache/conf/httpd.conf",
+		"/E/xampp/htdocs/project/siskanew/classes/siska/kelasmk.class.php",
+		"/E/xampp/htdocs/project/siskanew/classes/siska/krs.class.php",
+		"/E/xampp/htdocs/project/siskanew/includes/modules/krs/validasi_krs_prodi_act.php",
+		"/E/xampp/htdocs/project/siskanew/classes/siska/mahasiswa.class.php",
+		"/E/xampp/htdocs/project/siskanew/components/siska/datamahasiswa/akademik.php",
+		"/E/xampp/htdocs/project/siskanew/includes/modules/perkuliahan/daftar_mk.php",
+		"/E/xampp/htdocs/project/siskanew/includes/modules/krs/validasi_krs_keu.php",
+		"/E/xampp/htdocs/project/siskanew/includes/modules/perkuliahan/data_kelas.php",
+		"/E/xampp/htdocs/project/siskanew/classes/siska/kompetensi.class.php",
+		"/E/xampp/htdocs/project/siskanew/includes/modules/krs/validasi_krs_prodi.php",
+		"/E/xampp/htdocs/project/siskanew/includes/page_top.php",
+		"/E/xampp/htdocs/project/siskanew/includes/modules/administrasi_akademik/update_kompetensi_act.php",
+		"/E/xampp/htdocs/project/siskanew/components/siska/datamahasiswa/DataMahasiswa.php",
+		"/E/xampp/htdocs/project/siskanew/components/siska/datamahasiswa/administrasi.php",
+		"/E/xampp/htdocs/project/siskanew/forgotpass_act.php",
+		"/E/xampp/htdocs/project/siskanew/forgotpass.php",
+		"/E/xampp/htdocs/project/siskanew/index.php",
+		"/E/xampp/htdocs/project/siskanew/includes/email/reset_pass.php",
+		"/E/xampp/htdocs/project/siskanew/classes/siska/dosen.class.php",
+		"/E/xampp/htdocs/project/siskanew/functions/time.function.php",
+		"/E/xampp/htdocs/project/siskanew/includes/modules/pengaturan_akun/gantipsw_act.php",
+		"/E/xampp/htdocs/project/siskanew/classes/siska/kelasmk2.class.php",
+		"/E/xampp/htdocs/project/siskanew/includes/menu.php",
+		"/E/xampp/htdocs/project/siskanew/includes/modules/krs_mahasiswa/krs_entry_include.php",
+		"/E/xampp/htdocs/project/siska/index.php",
+		"/E/xampp/htdocs/project/siskanew/includes/modules/krs_mahasiswa/krs_rekap_include.php",
+		"/E/xampp/htdocs/project/siskanew/public/index.php",
+		"/C/Users/Sofyan Thayf/AppData/Local/Temp/Rar$DIa0.971/siska.kharisma.ac.id-ssl_log",
+		"/E/xampp/htdocs/project/siskanew/includes/modules/perwalian/perwalian.php",
+		"/E/OneDrive/Dokumen/STMIK KHARISMA/SSL kharisma.ac.id/siska_kharisma_ac_id.key",
+		"/E/OneDrive/Dokumen/STMIK KHARISMA/SSL kharisma.ac.id/1_root_bundle.crt",
+		"/E/xampp/htdocs/project/siskanew/services/CATATAN",
+		"/E/xampp/htdocs/project/siskanew/appconfig/siska.config.php",
+		"/E/xampp/htdocs/project/siskanew/aksi_otentikasi.php",
+		"/C/Users/Sofyan Thayf/Google Drive/STMIK KHARISMA/SIMAK/backup & transfer/20160111 siska_kuliah LOCAL 01.sql",
+		"/C/Users/Sofyan Thayf/Google Drive/STMIK KHARISMA/SIMAK/backup & transfer/20160111 siska_kuliah LOCAL 02.sql",
+		"/C/Users/Sofyan Thayf/Google Drive/STMIK KHARISMA/Data/sql update nilai 20142.sql",
+		"/E/xampp/php/php.ini",
+		"/C/Users/Sofyan Thayf/Google Drive/STMIK KHARISMA/SIMAK/backup & transfer/20160111 siska_kuliah.sql",
+		"/C/Users/Sofyan Thayf/Google Drive/STMIK KHARISMA/Data/sql nilai 20142.sql",
+		"/E/xampp/htdocs/project/siskanew/includes/modules/perkuliahan/perkuliahan_xls.php"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"img",
+			"images",
+			"img",
+			"FULLTEXT",
+			"skripsi",
+			"'room'",
+			"upload",
+			"            ",
+			"E:\\",
+			"E:/",
+			"virtu",
+			"uplo",
+			"upload",
+			"validasiProd",
+			"kompete",
+			"jumlahpeserta",
+			"getPeser",
+			"setPeserta",
+			"INSERT INTO",
+			"echo",
+			"setPeserta",
+			"komp",
+			"INSERT",
+			"uplo",
+			"nob",
+			"setJa",
+			"setKodeJadwal",
+			"jumlahpeserta",
+			"61201",
+			"getPes",
+			"simpan(",
+			"kompetensi",
+			"->kompetensi",
+			"$this->kompetensi",
+			"eki",
+			"spli",
+			"jabata",
+			"num",
+			"ekiv",
+			"coll",
+			"ItemJadwal",
+			"span",
+			"include(",
+			"<form",
+			"Mahasiswa",
+			"slotwaktu",
+			"slot",
+			"$mk->",
+			"ruang",
+			"slot",
+			"semes",
+			"colspan",
+			"jenjang",
+			"select",
+			"kodeprogramstudi",
+			"$mhs",
+			"$mahasiswa",
+			"$mahasiwa",
+			"$mhs",
+			"<form",
+			"$pr",
+			"'modul'=>",
+			", 'nama'=>",
+			", 'parent'=>",
+			"id'=>",
+			"'klas'=>",
+			"$menu[] = array",
+			"krsItemDibata",
+			"krsItemDitambahPA",
+			"kodeprogramstudi",
+			"validasiPA",
+			"status",
+			"220px",
+			"Verdana",
+			"Tahoma",
+			"isb",
+			"new KRS",
+			"isB",
+			"defsmt",
+			"\"nama\"",
+			"\"jenjang\"",
+			"task",
+			"dsn",
+			"bold",
+			"mysqli_",
+			"mysql_",
+			"_day",
+			"_days",
+			"statusedit",
+			"label",
+			"elegant-aero",
+			"table",
+			"80",
+			"32",
+			"250",
+			"300px",
+			"200",
+			"block",
+			"overflow",
+			" style=\"display:block;\"",
+			"250",
+			"bar",
+			"konten",
+			"form",
+			", 'target'=>''",
+			"logo",
+			"tgl_skrg",
+			"; ",
+			",",
+			"\"",
+			"statusedit",
+			"data_mhs",
+			"foto",
+			"display_errors",
+			"'"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"paper",
+			"",
+			"D:\\",
+			"D:/",
+			"$kelasmk->kompetensi->kode",
+			"require_once ",
+			"$kelasmk->",
+			"$this->mahasiswa",
+			"$mahasiswa",
+			"$this->pr",
+			"",
+			"', ",
+			"', '",
+			"",
+			"$menu->item",
+			"180px",
+			"'nama'",
+			"'jenjang'",
+			"stf",
+			"mysql_",
+			"mysqli_",
+			"kharismaform",
+			"",
+			";",
+			"",
+			"kodestatus",
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3661,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16,
+								16
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/style.css",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 3014,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "latihan2.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 218.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
