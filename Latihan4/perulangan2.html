@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Contoh Proses Perulangan</title>
+</head>
+<body>
+
+<ul>
+	<div id="nav"></div>
+</ul>
+
+<script type="text/javascript">
+/*
+	document.getElementById('nav').innerHTML = "<li>link1</li>"+
+											   "<li>link2</li>"+
+											   "<li>link3</li>"+
+											   "<li>link4</li>";
+*/
+	var links = "";
+	var hari = ["Senin", "Selasa", "Rabu", 
+				"Kamis", "Jumat", "Sabtu", "Minggu" ];
+
+	for (var i = 0; i < 7; i++) {
+		links += "<li>" + hari[i] + "</li>" ;
+	}
+
+	document.getElementById('nav').innerHTML = links;
+
+</script>
+
+</body>
+</html>

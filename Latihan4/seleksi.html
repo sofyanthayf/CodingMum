@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Contoh Proses Seleksi</title>
+</head>
+<body>
+
+<h3>Nilai Anda: <span id="nilai">...</span> dan Anda dinyatakan <span id="hasil">...</span></h3>
+
+
+
+<script type="text/javascript">
+
+var nilai = 55;
+var hasil;
+
+if( nilai >= 65 ) {
+	hasil = "LULUS";
+} else {
+	hasil = "SILAHKAN MENCOBA LAGI";
+}
+
+document.getElementById('nilai').innerHTML = nilai;
+document.getElementById('hasil').innerHTML = hasil;
+	
+</script>
+
+</body>
+</html>

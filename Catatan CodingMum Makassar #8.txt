@@ -7,5 +7,8 @@ LESSON 09 : STRUKTUR PEMROGRAMAN
 LESSON 10 : Document Object Model (DOM)
 
 
+Proses oleh komputer:
+	INPUT --> PROSES --> OUTPUT
 
 
+function = sub-program untuk tugas tertentu yang mungkin akan digunakan berulang-ulang

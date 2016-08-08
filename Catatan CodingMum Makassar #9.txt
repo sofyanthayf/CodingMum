@@ -1,0 +1,51 @@
+Pertemuan #9 (08/08/2016)
+-------------------------
+
+Hari ini sampai 5 pertemuan kedepan
+LESSON 08 : DASAR PEMROGRAMAN JAVASCRIPT 
+LESSON 09 : STRUKTUR PEMROGRAMAN	<----------- hari ini ---
+LESSON 10 : Document Object Model (DOM)
+
+
+Proses oleh komputer:
+	INPUT --> PROSES --> OUTPUT
+
+INGAT JavaScript bersifat SANGAT Case-Sensitive (sangat membedakan huruf besar dan uruf kecil)
+
+- program selalu berjalan dari baris pertama sampai beris terakhir secara berurut, TAPI ..
+- program tidak selalu berjalan lurus/sekuensial dari baris ke baris
+
+kemungkinan program:
+- Bercabang
+
+	if(  /* pernyataan kondisi */ ) {
+		/* code program
+		   jika kondisi terpenuhi  */
+	} else {
+
+		/* code program
+		   jika kondisi tidak terpenuhi  */
+	}
+
+- Berulang
+
+	For --> untuk perulangan yang jumlahnya diketahui
+
+	for(var i=0 /*nilai awal/inisialisasi ; i <= 12 /* batas */ ; i++  /* increment */ ){
+		code yang berulang
+
+	}
+
+	/* inceremental :  i++  ==>  i = i + 1
+			   i += 3  ==>  i = i + 3
+
+
+variabel array --> variabel yang menyimpan lebih dari satu nilai, setiap nilai dikenali dengan nomor index (dimulai dari 0)
+
+var hari = ["Senin", "Selasa", "Rabu", "Kamis", "Jumat", "Sabtu", "Minggu" ];
+
+hari[4] --> "Jumat"
+
+
+
+
