@@ -1,0 +1,30 @@
+Pertemuan #10 (10/08/2016)
+-------------------------
+
+LESSON 08 : DASAR PEMROGRAMAN JAVASCRIPT 
+LESSON 09 : STRUKTUR PEMROGRAMAN	
+LESSON 10 : Document Object Model (DOM) <----------- hari ini ---
+
+
+Proses oleh komputer:
+	INPUT --> PROSES --> OUTPUT
+
+INGAT JavaScript bersifat SANGAT Case-Sensitive (sangat membedakan huruf besar dan uruf kecil)
+
+
+HTML --- element1 --- id
+      |            |- style
+      |            |- attribut ---- innerHTML
+      |                         |-- value
+      |
+      |- element2 --- id
+                   |- style
+                   |- attribut
+
+getElementById
+getElementsByClassName
+getElementsByTagName
+
+
+Object punya: - Properti/atribut
+	      - event

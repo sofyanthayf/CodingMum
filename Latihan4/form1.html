@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Input Output</title>
+</head>
+<body>
+
+
+<h1>Belajar Input dan Output</h1>
+<h1>Input Output pada JavaScript dengan konsep DOM</h1>
+<h1 id="Sembarang"></h1>
+
+Masukkan Nama Anda: <input type="text" name="isian" id="isian" onchange="bacaNama()">
+
+
+
+<script type="text/javascript">
+/*
+	document.getElementById('Sembarang').innerHTML = "contoh sembarang";
+
+	document.getElementsByTagName('h1')[0].innerHTML = "TEST DOM";
+
+	document.getElementById('Sembarang').innerHTML = document.getElementsByTagName('h1')[0].innerHTML + document.getElementsByTagName('h1')[1].innerHTML;
+*/
+
+
+	function bacaNama(){
+		document.getElementById('Sembarang').innerHTML = document.getElementById('isian').value;
+	}
+
+</script>
+
+</body>
+</html>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Form Pesanan</title>
+</head>
+<body>
+
+
+	Pilihan Rasa: 
+	<select id="rasa" onclick="inputRasa()">
+		<option></option>
+		<option value="12000">Original - Rp12000</option>
+		<option value="15000">Rasa Coklat - Rp15000</option>
+		<option value="22000">Rasa Keju - Rp22000</option>
+	</select>
+	
+	<br>
+
+	Jumlah Pesanan: <input type="text" name="jumlah" id="jumlah" onchange="hitungHarga()">
+
+
+<div>Jumlah Harga: <span id="harga"></span></div>
+
+<script type="text/javascript" src="js/olahformulir.js"></script>
+
+</body>
+</html>
