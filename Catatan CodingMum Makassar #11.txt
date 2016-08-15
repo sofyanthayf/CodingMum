@@ -1,0 +1,23 @@
+Pertemuan #11 (12/08/2016)
+--------------------------
+
+Server Side Scripting
+
+
+Persiapan:
+                                      -----
+URL: http://codingmum.sofyanthayf.com/bunga
+                                      -----
+
+administrator: http://codingmum.sofyanthayf.com/extplorer
+username: bunga
+password: CodingMum
+
+- ammarganteng
+- dimeg
+- fatmadebya
+- qalbi
+- sarah
+- winarniks
+- asri
+
