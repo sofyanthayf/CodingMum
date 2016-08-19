@@ -1,0 +1,9 @@
+body {
+    background-color: #c4dbea;
+}
+
+.jumbotron {
+	background-image: url(../img/balonku.png);
+	background-color: #e83f7f;
+	color: #fff;
+}

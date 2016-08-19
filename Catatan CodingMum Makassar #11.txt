@@ -21,3 +21,41 @@ password: CodingMum
 - winarniks
 - asri
 
+
+             CLIENT   <------------------ WEB SERVER <-------------> Database Server
+      (HTML, CSS, JavaScript)               (PHP)                        (MySQL)
+
+  |------- CLIENT SIDE --------|      |---------------  SERVER SIDE  -----------------|
+
+
+PHP = PHP is HTML Preprocessor
+    = script program yang menghasilka HTML
+
+TAG PHP:
+
+	<?php
+	   /*  --- kode program php --- */
+	   /*  setiap baris diakhiri dengan titik-koma (semicolon)  */
+	?>
+
+PHP menghasilkan HTML:
+
+	<?php
+	   echo "<HTML><BODY>";
+	   echo "<H2>Hello World</H2>";
+	   echo "</BODY></HTML>";
+	?>
+
+Atau
+PHP di dalam HTML:
+
+	<HTML>
+	  <BODY>
+	     <H2><?php echo "Hello World"; ?></H2>
+	  </BODY>
+	</HTML>
+
+*  echo --> perintah PHP untuk menampilkan output
+
+
+

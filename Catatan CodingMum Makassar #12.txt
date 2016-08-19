@@ -1,0 +1,61 @@
+Pertemuan #12 (15/08/2016)
+--------------------------
+
+Server Side Scripting dan Database (MySQL)
+
+Persiapan:
+administrator database: http://codingmum.sofyanthayf.com/dbadmin
+
+username dan nama database:
+sofs7152_ammarganteng
+sofs7152_asri
+sofs7152_bunga
+sofs7152_dimeg
+sofs7152_fatmadebya
+sofs7152_qalbi
+sofs7152_sarah
+sofs7152_winarniks
+
+
+password: CodingMum16
+
+
+
+             CLIENT   <------------------ WEB SERVER <-------------> Database Server
+      (HTML, CSS, JavaScript)               (PHP)                        (MySQL)
+
+  |------- CLIENT SIDE --------|      |---------------  SERVER SIDE  -----------------|
+
+
+Database ---> data/kumpulan data yang tersimpan secara terstruktur
+
+contoh struktur database:
+---------------------------------------
+Nama     |   alamat        |  telepon     <--- struktur data (Fields/kolom)
+---------------------------------------
+Fatma    | Grand Property  | 0821xxxxxx
+Asri     | Perumnas Antang | 0852XXXXXX   <--- data / record / baris
+Sarah    | Gowa            | 0852xxxxxx
+---------------------------------------
+                 |
+                 |
+               TABLE
+
+Dalam satu DATABASE, dapat dibuat banyak TABLE
+
+Type data:
+INT 	--> Integer (bilangan bulat, sampai max 4 miliar)
+LONGINT --> Integer (bilangan bulat, lebih besar dari 4 miliar)
+TINYINT --> Integer (bilangan bulat, 0-255)
+FLOAT 	--> Floating Point (bilangan pecahan desimal, 128 angka di belakang koma)
+CHAR	--> Text dengan lebar tetap (maks. 255 karakter)
+VARCHAR	--> Text dengan lebar bervariasi (maks. 255 karakter)
+TEXT    --> Text panjang sampai 64000 karakter
+BOOLEAN --> Logika True atau False
+
+
+
+
+
+
+
