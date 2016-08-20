@@ -1,9 +1,8 @@
 body {
-    background-color: #c4dbea;
-}
-
-.jumbotron {
-	background-image: url(../img/balonku.png);
-	background-color: #e83f7f;
-	color: #fff;
+    background-color: #f1aaaf;
+	background-image: url(../img/logo.png);
+	background-repeat: no-repeat;  
+	background-size: 120px;
+	margin: 20px;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 }

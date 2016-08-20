@@ -21,10 +21,10 @@ password: CodingMum16
 
 
 
-             CLIENT   <------------------ WEB SERVER <-------------> Database Server
-      (HTML, CSS, JavaScript)               (PHP)                        (MySQL)
+             CLIENT   <----------------- WEB SERVER <--------> Database Server
+      (HTML, CSS, JavaScript)              (PHP)                   (MySQL)
 
-  |------- CLIENT SIDE --------|      |---------------  SERVER SIDE  -----------------|
+  |------- CLIENT SIDE --------|      |-------------  SERVER SIDE  -------------|
 
 
 Database ---> data/kumpulan data yang tersimpan secara terstruktur
@@ -43,7 +43,7 @@ Sarah    | Gowa            | 0852xxxxxx
 
 Dalam satu DATABASE, dapat dibuat banyak TABLE
 
-Type data:
+Type data, antar lain (yang paling sering digunakan):
 INT 	--> Integer (bilangan bulat, sampai max 4 miliar)
 LONGINT --> Integer (bilangan bulat, lebih besar dari 4 miliar)
 TINYINT --> Integer (bilangan bulat, 0-255)
@@ -54,8 +54,15 @@ TEXT    --> Text panjang sampai 64000 karakter
 BOOLEAN --> Logika True atau False
 
 
+Proses penyimpanan data ke data base dengan server side scripting PHP
+/* baca data user dari form  */
+/* tugas utama: menyimpan data user */
+/** koneksi ke database  */
+/** simpan data  */
+/* tampilkan pesan sukses  */
 
 
+Untuk mengakses database digunakan bahasa Query yang disebut dengan SQL (Structured Query Language)
 
 
 
