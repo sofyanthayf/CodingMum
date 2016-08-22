@@ -1,0 +1,50 @@
+<html>
+<head>
+	<title>Testimoni</title>
+
+	<link href="css/bootstrap.min.css" rel="stylesheet">
+	<link href="assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+	<link href="css/jumbotron-narrow.css" rel="stylesheet">
+	<link href="css/mystyle.css" rel="stylesheet">
+
+	<script type="text/javascript" src="js/jquery-3.1.0.js"></script>
+
+</head>
+<body>
+	<div class="container">
+
+    <h1 class="well">Testimoni</h1>
+	<div class="well">
+		<div class="row">
+
+			<div id="daftartestimoni"></div>	
+
+		</div>
+	</div>
+	</div>
+
+	<script type="text/javascript">
+		
+		$.post("bacatestimoni.php", function( data ){
+			/* tampilkan data hasilnya  */
+
+			var datajson = JSON.parse(data);
+
+			var te = "";
+			for(var i=0; i<datajson.hasil.length; i++){
+				te += "<span class='namatestimoni'>";
+				te += datajson.hasil[i].nama + "</span> (";
+				te += "<span class='tanggaltestimoni'>";
+				te += datajson.hasil[i].tanggal + "</span>)<br>";
+				te += datajson.hasil[i].pesan + "<br>";
+				te += "<br>";
+			}
+
+			$("#daftartestimoni").html( te );
+
+		});
+
+	</script>
+
+</body>
+</html>

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Testimoni</title>
+
+	<link href="css/bootstrap.min.css" rel="stylesheet">
+	<link href="assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+	<link href="css/jumbotron-narrow.css" rel="stylesheet">
+	<link href="css/mystyle.css" rel="stylesheet">
+
+</head>
+<body>
+	<div class="container">
+
+    <h1 class="well">Testimoni</h1>
+	<div class="well">
+		<div class="row">
+
+		<form action="simpantestimoni.php" method="POST">
+
+			<div class="col-sm-12">
+
+				<div class="form-group">
+					<label>Nama Anda</label>
+					<input type="text" placeholder="Nama Anda.." class="form-control" name="nama">
+				</div>	
+
+				<div class="form-group">
+					<label>Alamat Email</label>
+					<input type="text" placeholder="Email Anda.." class="form-control" name="email">
+				</div>	
+
+				<div class="form-group">
+					<label>Testimoni</label>
+					<textarea placeholder="Tuliskan testimoni Anda.." rows="10" class="form-control" name="testimoni"></textarea>
+				</div>	
+
+				<input type="submit" class="btn btn-lg btn-info" value="Kirim Testimoni">
+
+				</div>
+				</form> 
+				</div>	
+		</div>
+
+</body>
+</html>

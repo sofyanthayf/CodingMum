@@ -1,0 +1,27 @@
+body {
+    background-color: #f1aaaf;
+	background-image: url(../img/logo.png);
+	background-repeat: no-repeat;  
+	background-size: 120px;
+	margin: 20px;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+#daftartestimoni {
+	padding: 20px;
+	text-align: justify;
+}
+
+.namatestimoni {
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.tanggaltestimoni {
+	font-style: italic;
+	font-weight: bold;
+}
+
+table.dataTable tbody td {
+  vertical-align: top;
+}

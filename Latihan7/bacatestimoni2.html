@@ -1,0 +1,54 @@
+<html>
+<head>
+	<title>Testimoni</title>
+
+	<link href="css/bootstrap.min.css" rel="stylesheet">
+	<link href="assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+	<link href="css/jumbotron-narrow.css" rel="stylesheet">
+	<link href="css/mystyle.css" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="css/jquery.dataTables.css">
+
+	<script type="text/javascript" src="js/jquery-3.1.0.js"></script>
+	<script type="text/javascript" src="js/jquery.dataTables.js"></script>
+
+</head>
+<body>
+	<div class="container">
+
+    <h1 class="well">Testimoni</h1>
+	<div class="well">
+		<div class="row">
+
+	<table id="daftartestimoni" class="display" cellspacing="0" width="100%">
+    	<thead>
+        	<tr>
+            	<th>Nama</th>
+            	<th>Tanggal</th>
+            	<th>Testimoni</th>
+        	</tr>
+    	</thead>
+	</table>
+
+		</div>
+	</div>
+	</div>
+
+	<script type="text/javascript">
+
+	$('#daftartestimoni').DataTable( {
+    	"ajax": {
+        	   		"url" : "bacatestimoni.php",
+            		"type": "POST",
+    	    	},
+
+        "sAjaxDataProp": "hasil",
+
+        "columns": [ { "data": "nama" },
+        		     { "data": "tanggal" },
+           			 { "data": "pesan" } ]
+   	 } );
+
+	</script>
+
+</body>
+</html>
